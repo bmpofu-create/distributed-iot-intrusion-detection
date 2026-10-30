@@ -1,0 +1,12 @@
+{
+  "train_rows": 98734,
+  "test_rows": 24383,
+  "feature_dim": 103,
+  "accuracy": 0.9464380921133577,
+  "weighted_f1": 0.9420490679743885,
+  "weighted_precision": 0.9506256596819954,
+  "weighted_recall": 0.9464380921133576,
+  "macro_f1": 0.6000839156685481,
+  "baseline_accuracy": 0.7671738506336382,
+  "majority_class": "DOS_SYN_Hping"
+}

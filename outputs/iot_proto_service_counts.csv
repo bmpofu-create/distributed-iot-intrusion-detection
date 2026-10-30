@@ -1,0 +1,14 @@
+proto,service,count
+tcp,unknown,99971
+udp,dns,9627
+tcp,mqtt,4132
+tcp,http,3464
+udp,unknown,2833
+tcp,ssl,2663
+tcp,dns,126
+udp,ntp,121
+icmp,unknown,57
+udp,dhcp,50
+tcp,irc,43
+tcp,ssh,28
+udp,radius,2

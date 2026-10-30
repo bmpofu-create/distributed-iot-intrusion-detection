@@ -1,0 +1,9 @@
+{
+  "os.cpu_count": 2,
+  "ram_gb": 13.61,
+  "partitions": 8,
+  "replication": 1,
+  "executor_cores": 1,
+  "repeats": 3,
+  "max_iter": 50
+}

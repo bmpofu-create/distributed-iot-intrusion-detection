@@ -1,0 +1,28 @@
+member,executors,repeat,seconds,executors_seen,partitions
+Beven: Preprocessing,1,1,63.27652376500009,1,8
+Beven: Preprocessing,1,2,41.2657859599999,1,8
+Beven: Preprocessing,1,3,44.25957830900006,1,8
+Beven: Preprocessing,2,1,62.59675939500039,2,8
+Beven: Preprocessing,2,2,62.968763829999716,2,8
+Beven: Preprocessing,2,3,64.698042128,2,8
+Beven: Preprocessing,4,1,115.46925502600016,4,8
+Beven: Preprocessing,4,2,110.03122323100024,4,8
+Beven: Preprocessing,4,3,120.32820151600026,4,8
+Memory: Correlation,1,1,65.19045804400002,1,8
+Memory: Correlation,1,2,59.65412139800037,1,8
+Memory: Correlation,1,3,59.47513595600003,1,8
+Memory: Correlation,2,1,91.78221886599977,2,8
+Memory: Correlation,2,2,93.66728366400002,2,8
+Memory: Correlation,2,3,110.79318305700008,2,8
+Memory: Correlation,4,1,162.29446813899995,4,8
+Memory: Correlation,4,2,148.3872557980003,4,8
+Memory: Correlation,4,3,155.5907155760001,4,8
+Sibonginkosi: Logistic Reg.,1,1,76.35083210699986,1,8
+Sibonginkosi: Logistic Reg.,1,2,69.07768397400014,1,8
+Sibonginkosi: Logistic Reg.,1,3,71.83758071900047,1,8
+Sibonginkosi: Logistic Reg.,2,1,91.50689069200052,2,8
+Sibonginkosi: Logistic Reg.,2,2,112.94646804199965,2,8
+Sibonginkosi: Logistic Reg.,2,3,116.62610437500007,2,8
+Sibonginkosi: Logistic Reg.,4,1,184.05314370799988,4,8
+Sibonginkosi: Logistic Reg.,4,2,183.18122956600018,4,8
+Sibonginkosi: Logistic Reg.,4,3,161.48142749199997,4,8
